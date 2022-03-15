@@ -30,8 +30,8 @@ The controller can be powered either by connecting to a computer or using an ext
 
 
 ## Gestures
-
-Swiping left/right on a touch zone
-Swiping up/down
-Quick press
-Long press
+At the moment, this controller supports following gestures, in future version of the hardware and software I hope to include more gestures
+- Swiping left/right on a touch zone
+- Swiping up/down
+- Quick press
+- Long press
