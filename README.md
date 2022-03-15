@@ -1,4 +1,4 @@
-#Tutorial: Thumb-mounted controller
+# Tutorial: Thumb-mounted controller
 
 This thumb-mounted controller is an input device for using in extended reality (XR) environments, it operates by sensing user’s thumb gestures in which thumb contact and movements are processed using the output data from 2 or more force sensitive resistors and a gyroscope, recognised gestures are send to a XR device via Bluetooth Low Energy.
 
