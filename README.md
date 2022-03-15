@@ -14,8 +14,8 @@ This thumb-mounted controller is an input device for using in extended reality (
 ## Force Sensitive Resistors
 
 Force sensitive resistors play an important role on this controller for touch recognition including swiping and pressing. To use the force sensors, we need to make a voltage divider circuit as the figure below, a 3V power is connect to one pin on each force sensor, and on the other pin the analog input and ground is connected.
-<img width="235" alt="image" src="https://user-images.githubusercontent.com/46408299/158438894-bc3cbff2-3adb-4711-93ce-b42906d7a4ae.png">
 
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/46408299/158440514-24e7ef20-33b0-4343-98be-111f3e64b7fb.png">
 
 ## Arduino program
 
