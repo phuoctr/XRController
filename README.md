@@ -23,7 +23,7 @@ To program the Adafruit Feather Sense board, you need to use Arduino with Adafru
 Housing
 
 The housing comprises of two parts, one for holding the Feather Sense board and the other for mounting user’s thumb, under the thumb mount, the force sensitive parts of two force sensitive resistors are stiched as illustrated in the figure below:
-![image](https://user-images.githubusercontent.com/46408299/158438943-571378e9-1d8e-448f-9e74-16d3c323688a.png)
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/46408299/158440403-1672186f-5fa4-4843-a0e4-049963879c19.png">
 
 
 The controller can be powered either by connecting to a computer or using an external battery, a battery wristband is designed for mounting the battery.
