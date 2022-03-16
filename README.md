@@ -4,8 +4,9 @@ This thumb-mounted controller is an input device for using in extended reality (
 
 ## Materials
 
- -  Adafruit Feather nRF52840 sense: this is a bluetooth low energy (BLE) development board which comes with built-in accelerator, gyroscope and magnetometer. Another equivalent board is Arduino Nano 33 BLE. The Adafruit Feather Sense can be found at [Adafruit website](https://www.adafruit.com/product/4516)
-2*Force sensitive resistors: resistors with minimum sensitve of 30gr is recommend for better gesture sensing. The force sensistive resistors can be purchased for example on [Mouser](https://eu.mouser.com/ProductDetail/Ohmite/FSR05CE?qs=0lSvoLzn4L9hUdjZ8RLKtw==).
+- Adafruit Feather nRF52840 sense: this is a bluetooth low energy (BLE) development board which comes with built-in accelerator, gyroscope and magnetometer. Another equivalent board is Arduino Nano 33 BLE. The Adafruit Feather Sense can be found at [Adafruit website](https://www.adafruit.com/product/4516)
+
+- 2*Force sensitive resistors: resistors with minimum sensitve of 30gr is recommend for better gesture sensing. The force sensistive resistors can be purchased for example on [Mouser](https://eu.mouser.com/ProductDetail/Ohmite/FSR05CE?qs=0lSvoLzn4L9hUdjZ8RLKtw==).
 
 - 2* 10,000Ohms resistors. The resistors can be bought easily from the internet.
 - 3.3V Li-Po battery. For this controller, a 500mAH battery is used but it can also be powered by the microUSB port but keep it in mind that because the power consumption is not very significant so some battery banks will only work for few second before it stop powering the controller.
