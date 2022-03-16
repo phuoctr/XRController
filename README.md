@@ -10,7 +10,7 @@ This thumb-mounted controller is an input device for using in extended reality (
 
 - 2* 10,000Ohms resistors. The resistors can be bought easily from the internet.
 - 3.3V Li-Po battery. For this controller, a 500mAH battery is used but it can also be powered by the microUSB port but keep it in mind that because the power consumption is not very significant so some battery banks will only work for few second before it stop powering the controller.
-- A housing for the board: this housing is based on the board holder from Adafruit and a thumb cover to mount the controller on. The stl file for this housing can be found in this repo. This housing is modified from the [Adafruit Feather case](https://www.thingiverse.com/thing:1367270/files)
+- A housing for the board: this housing is based on the board holder from Adafruit and a thumb cover to mount the controller on. The stl file for this housing can be found in this repo. This housing is modified from the [Adafruit Feather case](https://www.thingiverse.com/thing:1367270/files).
 - A housing for the battery: a wrist band for mounting the battery. The stl file for this band can be found in this repo.
 
 ## Force Sensitive Resistors
