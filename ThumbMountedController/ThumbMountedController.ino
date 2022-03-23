@@ -151,7 +151,7 @@ uint8_t updateState(void){
       break;
 
     case FIRST_ZONE_START_PRESS:
-//      // If pressure down to 10 and below, just switch to switch release
+      // If pressure down to 10 and below, just switch to touch release
       if (AIN0 <= NONE_CONTACT){ 
         state = IDLING;
         break;
